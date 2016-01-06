@@ -1,2 +1,0 @@
-# ALAAS
-Hackathon 
